@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
 <img src="https://img.shields.io/badge/React Table-FF4154?style=for-the-badge&logo=React Table&logoColor=white">
-<img src="https://img.shields.io/badge/React Hook Form-EC5990">
+<img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white">
 
