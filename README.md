@@ -4,7 +4,8 @@
 
 ## Aristata's Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aristata&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aristata&show_icons=true&theme=dracula&count_private=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aristata&layout=compact&theme=dracula)
 
