@@ -1,60 +1,97 @@
-<div>
+# 👨‍💻 About Me
 
-#
+안녕하세요. 백엔드와 프론트엔드를 모두 경험한 풀스택 개발자 **장성민**입니다.
 
-## 🎯 Aristata's Stats
+저는 Java 기반의 Kotlin 언어를 주력으로 사용하며, Spring Boot 프레임워크에 JPA, QueryDSL, MyBatis 등을 활용하여 API 서버와 웹 서비스를 구축합니다.  
+다양한 결제 시스템, 물류 시스템, 블록체인 기반 거래소 등 실제 운영 프로젝트를 주도한 경험이 있으며, 특히 **도메인에 대한 깊은 이해를 바탕으로 비즈니스 로직을 설계하는 것**에 강점이 있습니다.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aristata&show_icons=true&theme=dracula&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aristata&layout=compact&theme=dracula)
-
-#
-
-## 💻 My Skills
-
-### 🔧 Web Backend Skills
-
-<img src="https://img.shields.io/badge/Java-35BF5C?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+퇴근 후에도 인강, 서적, 스터디를 병행하며 계속해서 성장해왔고,  
+개발자로서의 길을 30살부터 시작하여 40살을 앞둔 지금까지도 **치열하게 배우며, 정확하고 단단한 코드**를 지향합니다.
 
 ---
 
-### 🎨 Web Frontend Skills
+# 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/React Table-FF4154?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+### Backend
+- Kotlin, Java 17
+- Spring Boot 2.7.x
+- JPA / QueryDSL / MyBatis
+- MariaDB, PostgreSQL, MongoDB
+- Redis, DynamoDB
+- Docker, Spring RestDocs
 
----
+### Frontend
+- React.js, Next.js, Vue.js
+- TypeScript, SWR, React Query, Recoil, React Hook Form
+- MUI, Shadcn UI, Tailwind CSS
 
-### ⛓ Blockchain Skills
+### DevOps & Infra
+- AWS (EC2, S3, Route53, Load Balancer)
+- Jenkins, Docker, TeamCity
+- GitHub Actions, Notion, Miro
 
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white">
-
----
-
-### ⚙ DevOps Skills
-
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+### Blockchain
+- Solidity, Web3.js, wagmi, BEP-20, Binance Smart Chain
+- DApp, Wallet Connect, Smart Contract 기반 정산 시스템
 
 ---
 
-### 🛠 Other Skills
+# 💼 Career Summary
 
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white">
+| 기간 | 회사명 | 역할 |
+|------|--------|------|
+| 2021.10 ~ 2025.03 | 옵타움플랫폼 | 백엔드 파트장 / 개발 총괄 |
+| 2021.07 ~ 2021.09 | 앤디소프트 | 기획 / 테스트 |
+| 2016.12 ~ 2021.03 | 이멕스 | 물류 서비스 개발, 팀 리딩 |
 
-</div>
+---
+
+# 📌 Notable Projects
+
+### 오직페이 / 코인 P2P 거래소
+- Kotlin + SpringBoot 기반 API 서버
+- Next.js + Shadcn 기반 프론트 리팩토링
+- 블록체인 연동 및 토큰 결제 기능 구축
+
+### PG 결제 솔루션
+- React + MUI 기반 Admin 시스템
+- 계약서 PDF 생성 및 다운로드, 알림 시스템, 정산 관리 기능
+
+### 물류 Billing 시스템
+- Kotlin + SpringBoot + WebFlux
+- AWS 환경에서 자동 청구 인보이스 생성 및 회계 처리
+- 미국, 인도네시아 회계팀과 협업
+
+※ 상세 목록은 Notion 이력서 참고 → [Resume on Notion](https://aristatait.notion.site/800b58c746e248829fb6e510c47de8a6)
+
+---
+
+# 📖 교육 이수 / 자격증
+
+### 교육 이수
+- 부산IT교육센터: NFC & 지능형센서응용, Java/Spring
+- 정보산업진흥원: Python, Linux, Node.js
+- 그린컴퓨터아카데미: 회계관리 / 전산세무
+
+### 자격증
+- 정보처리기사 (2016.11)
+- 회계관리 1급, 전산회계 1·2급
+- MCAS 2007 Master
+
+---
+
+# 🙋‍♂️ 성격과 가치관
+
+> "디테일이 명품을 만든다"
+
+- **ISFJ (용감한 수호자)**: 조용하지만 책임감 있고 성실한 성격
+- **인정과 격려에 힘을 얻음**: 칭찬은 고래도 춤추게 합니다
+- **커뮤니케이션 중시**: 같은 말도 어떻게 전달하느냐가 중요함
+- **균형감각**: 타협과 소신 사이의 조화를 중요시함
+
+---
+
+# 📫 Contact
+
+- GitHub: [https://github.com/aristata](https://github.com/aristata)
+- Notion Resume: [Resume Link](https://aristatait.notion.site/800b58c746e248829fb6e510c47de8a6)
